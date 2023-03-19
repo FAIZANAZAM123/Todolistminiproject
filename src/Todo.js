@@ -67,7 +67,7 @@ const editing=()=>{
         <>
 
             <div className="card">
-               <h1>Welcome to the Great TodoList App!</h1>
+               <h1>Welcome To The Great TodoList App!</h1>
                 <input type="text" placeholder='Add item'
                     onChange={lets} value={val}
                 />
